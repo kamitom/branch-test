@@ -1,1 +1,4 @@
 newbranch1
+
+
+git pull 遠程主機 遠程分支:本地分支

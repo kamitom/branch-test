@@ -1,0 +1,5 @@
+
+git pull 用法:
+
+git pull origin remotebranchname:remotebranchname
+
